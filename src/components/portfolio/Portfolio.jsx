@@ -17,16 +17,6 @@ const Portfolio = () => {
       <div className="container portfolio__container">
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src={NETFLIX} alt="" />
-          </div>
-          <h3>Netflix clone</h3>
-          <div className="portfolio__item-cta">
-            <a href="https://github.com/MarsIncarnate/Marsflix" className='btn' target='__blank'>GitHub</a>
-            <a href="https://marsnetflixclone.netlify.app/" className='btn btn-primary' target='__blank'>Live Demo</a>
-          </div>
-        </article>
-        <article className="portfolio__item">
-          <div className="portfolio__item-image">
             <img src={IMG1} alt="" />
           </div>
           <h3>Game Warrior clone</h3>

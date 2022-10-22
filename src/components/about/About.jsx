@@ -38,7 +38,7 @@ const about = () => {
           </div>
 
           <p>
-          I am a passionate critical thinker and I love to solve problems. I am also an undergraduate mechanical engineer who speaks Chinese with intermediate fluency and I love to keep myself updated, contribute to open source, write algorithms on <a href="hackerrank.com">Hackerrank</a> and play chess in my free time.
+          I am a passionate critical thinker and I love to solve problems. I am also an undergraduate mechanical engineer who speaks Chinese with intermediate fluency and I love to keep myself updated, contribute to open source, write algorithms on <a href="hackerrank.com">Hackerrank</a> and play chess and scrabble in my free time.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>

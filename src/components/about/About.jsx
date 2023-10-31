@@ -23,22 +23,22 @@ const about = () => {
             <article className='about__card'>
               <FaAward/>
               <h5>Experience</h5>
-              <small>1+ years learning</small>
+              <small>3+ years</small>
             </article>
             <article className='about__card'>
               <AiFillSafetyCertificate/>
               <h5>Certifications</h5>
-              <small>5 certificates</small>
+              <small>7 certificates</small>
             </article>
             <article className='about__card'>
               <VscFolderLibrary/>
               <h5>Projects</h5>
-              <small>15+ completed</small>
+              <small>25+ completed</small>
             </article>
           </div>
 
           <p>
-          I am a passionate critical thinker and I love to solve problems. I am also an undergraduate mechanical engineer who speaks Chinese with intermediate fluency and I love to keep myself updated, contribute to open source, write algorithms on <a href="hackerrank.com">Hackerrank</a> and play chess and scrabble in my free time.
+          I am a results-driven developer with a background in mechanical engineering and intermediate-level Chinese language skills. I excel in web scraping, data management, and API integration, and I have a track record of extracting, structuring, and managing large datasets. Notably, I scraped data from TripAdvisor, overcoming their restriction on Web Crawlers and I also developed a medical cannabis dashboard that processed extensive prescription data within Australia spanning 11 years, revealing crucial market trends. My passion for problem-solving extends to contributing to open-source projects, honing algorithmic skills on platforms like Hackerrank, and strategizing in games like chess and Scrabble. I offer a unique blend of technical proficiency, linguistic capabilities, and a relentless drive for excellence, making me an ideal candidate for web scraping, data management, and API-related projects.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>

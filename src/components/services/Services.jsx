@@ -15,15 +15,15 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon' />
-              <p>API development and integration.</p>
+              <p>Custom API development.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>SQL database management.</p>
+              <p>Third-party API integration.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Fixing bugs and testing for usability.</p>
+              <p>SQL database design and optimization.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
@@ -35,53 +35,65 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Custom development.</p>
+              <p>Fixing bugs and testing for usability.</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon' />
+              <p>Server-side development for web applications.</p>
             </li>
           </ul>
         </article>
         <article className="service">
           <div className="service__head">
-            <h3>Frontend Development</h3>
+            <h3>Web Scraping & Data Acquisition</h3>
           </div>
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Using HTML, CSS and JavaScript to bring concepts to life.</p>
+              <p>Custom web scraping solutions.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Optimizing user experience.</p>
+              <p>Overcoming web scraping challenges with custom user agents.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Developing and maintaining user interface.</p>
+              <p>Automated navigation and data extraction from multiple web pages.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Implementing design on mobile websites.</p>
+              <p>Implementation of IP rotation strategies to avoid scraping restrictions.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Following SEO best practices.</p>
+              <p>Implementation of IP rotation strategies to avoid scraping restrictions.</p>
             </li>
           </ul>
         </article>
         <article className="service">
           <div className="service__head">
-            <h3>Cloud Services</h3>
+            <h3>Data Management</h3>
           </div>
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Dockerization</p>
+              <p>Efficient storage and processing of extensive datasets.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Continuous Integration and Deployment</p>
+              <p>Scalable solutions for handling large data volumes.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Amazon Web Services</p>
+              <p>Cloud Services</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon' />
+              <p>Automated processes and scripts for data handling</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon' />
+              <p>Server-side development for data-driven applications</p>
             </li>
           </ul>
         </article>

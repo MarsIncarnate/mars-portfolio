@@ -4,7 +4,6 @@ import ME from '../../assets/me.png'
 import {FaAward} from 'react-icons/fa'
 import {VscFolderLibrary} from 'react-icons/vsc'
 import {AiFillSafetyCertificate} from 'react-icons/ai'
-import { FaCrown } from 'react-icons/fa'
 
 const about = () => {
   return (
@@ -15,7 +14,7 @@ const about = () => {
       <div className="container about__container">
         <div className="about__me">
           <div className="about__me-image">
-            <img src={ME} alt="about-image" />
+            <img src={ME} alt="about" />
           </div>
         </div>
 

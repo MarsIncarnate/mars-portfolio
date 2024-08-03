@@ -1,6 +1,5 @@
 import React from 'react'
 import CV from '../../assets/cv.pdf'
-import UP from '../../assets/upworkjss.png'
 
 const CTA = () => {
   return (

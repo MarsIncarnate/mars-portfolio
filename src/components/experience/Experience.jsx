@@ -10,34 +10,13 @@ const Experience = () => {
 
       <div className="container experience__container">
         <div className="experience__frontend">
-          <h3>Frontend Development</h3>
+          <h3>Fullstack Development</h3>
           <div className="experience__content">
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>HTML</h4>
+                <h4>Python</h4>
                 <small className="text-light">Experienced</small>
-              </div>
-            </article>
-            <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon'/>
-              <div>
-                <h4>CSS</h4>
-                <small className="text-light">Experienced</small>
-              </div>
-            </article>
-            <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon'/>
-              <div>
-                <h4>Bootstrap</h4>
-                <small className="text-light">Intermediate</small>
-              </div>
-            </article>
-            <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon'/>
-              <div>
-                <h4>SASS</h4>
-                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className='experience__details'>
@@ -50,76 +29,83 @@ const Experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>JQuery</h4>
+                <h4>Database</h4>
                 <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>React</h4>
+                <h4>AWS Kubernetes</h4>
                 <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>Redux</h4>
-                <small className="text-light">Intermediate</small>
+                <h4>Next Js</h4>
+                <small className="text-light">Experienced</small>
               </div>
             </article>
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>Typescript</h4>
-                <small className="text-light">Basic</small>
+                <small className="text-light">Intermediate</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon'/>
+              <div>
+                <h4>Node Js</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon'/>
+              <div>
+                <h4>Version Control: Git</h4>
+                <small className="text-light">Experienced</small>
               </div>
             </article>
           </div>
         </div>
         <div className="experience__backend">
-          <h3>Backend Development</h3>
+          <h3>Wix Development</h3>
           <div className="experience__content">
           <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>Python</h4>
-                <small className="text-light">Intermediate</small>
+                <h4>Wix CMS</h4>
+                <small className="text-light">Experienced</small>
               </div>
             </article>
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>Flask</h4>
-                <small className="text-light">Intermediate</small>
+                <h4>Wix Velo</h4>
+                <small className="text-light">Experienced</small>
               </div>
             </article>
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>PSQL</h4>
-                <small className="text-light">Intermediate</small>
+                <h4>API Integration</h4>
+                <small className="text-light">Experienced</small>
               </div>
             </article>
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>SQLite</h4>
-                <small className="text-light">Basic</small>
+                <h4>Wix Security</h4>
+                <small className="text-light">Experienced</small>
               </div>
             </article>
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>Docker</h4>
-                <small className="text-light">Basic</small>
-              </div>
-            </article>
-            <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon'/>
-              <div>
-                <h4>AWS</h4>
-                <small className="text-light">Basic</small>
+                <h4>Wix Web Design</h4>
+                <small className="text-light">Experienced</small>
               </div>
             </article>
           </div>

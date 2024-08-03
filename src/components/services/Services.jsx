@@ -10,7 +10,7 @@ const Services = () => {
       <div className="container services__container">
         <article className="service">
           <div className="service__head">
-            <h3>Backend Development</h3>
+            <h3>Fullstack Development</h3>
           </div>
           <ul className="service__list">
             <li>
@@ -45,28 +45,36 @@ const Services = () => {
         </article>
         <article className="service">
           <div className="service__head">
-            <h3>Web Scraping & Data Acquisition</h3>
+            <h3>Wix Custom Development</h3>
           </div>
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Custom web scraping solutions.</p>
+              <p>Custom wix web solutions.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Overcoming web scraping challenges with custom user agents.</p>
+              <p>Specialized Ecommerce websites</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Automated navigation and data extraction from multiple web pages.</p>
+              <p>Animated landing pages</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Implementation of IP rotation strategies to avoid scraping restrictions.</p>
+              <p>Complex code functionality</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Implementation of IP rotation strategies to avoid scraping restrictions.</p>
+              <p>Wix member sites</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon' />
+              <p>Wix database, CMS</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon' />
+              <p>Advanced Interactions</p>
             </li>
           </ul>
         </article>

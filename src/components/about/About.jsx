@@ -1,9 +1,10 @@
 import React from 'react'
 import './about.css'
-import ME from '../../assets/me-about.jpg'
+import ME from '../../assets/me.png'
 import {FaAward} from 'react-icons/fa'
 import {VscFolderLibrary} from 'react-icons/vsc'
 import {AiFillSafetyCertificate} from 'react-icons/ai'
+import { FaCrown } from 'react-icons/fa'
 
 const about = () => {
   return (
@@ -38,7 +39,11 @@ const about = () => {
           </div>
 
           <p>
-          I am a results-driven developer with a background in mechanical engineering and intermediate-level Chinese language skills. I excel in web scraping, data management, and API integration, and I have a track record of extracting, structuring, and managing large datasets. Notably, I scraped data from TripAdvisor, overcoming their restriction on Web Crawlers and I also developed a medical cannabis dashboard that processed extensive prescription data within Australia spanning 11 years, revealing crucial market trends. My passion for problem-solving extends to contributing to open-source projects, honing algorithmic skills on platforms like Hackerrank, and strategizing in games like chess and Scrabble. I offer a unique blend of technical proficiency, linguistic capabilities, and a relentless drive for excellence, making me an ideal candidate for web scraping, data management, and API-related projects.
+          Hi there! I'm Marvellous, a dedicated fullstack developer with expertise in Wix Velo, frontend and backend development. 
+          I specialize in crafting tailored, user-friendly websites that help small and medium-sized businesses overcome digital challenges and thrive online.
+          As a certified Wix Velo developer, I excel in building and optimizing Wix sites, offering custom functionalities like complex animations, interactive components, advanced CMS logic and quick bug fixes to meet your business needs. 
+          My proficiency in web design with UI/UX, Webflow and WordPress allows me to translate your design vision into pixel-perfect, responsive websites, 
+          ensuring they are fast, functional, and visually stunning across all devices.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
